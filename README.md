@@ -1,5 +1,5 @@
 ### Hi there
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+本项目聚焦于CS保研er复习全方位的复习,求求动动爪爪,给个Star
 # 1. 数据结构
 ## [第一章绪论](https://www.cnblogs.com/awei040519/articles/19011866)
 ## [第二章线性表](https://www.cnblogs.com/awei040519/articles/19011888)
