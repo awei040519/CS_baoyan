@@ -16,3 +16,7 @@
 # 3. 计算机网络
 ## [TCP/IP 网络模型](https://www.cnblogs.com/awei040519/articles/19013483)
 ## [键入网址到网页显示，期间发生了什么？](https://www.cnblogs.com/awei040519/articles/19013913)
+
+# 4. 机试 
+## [最长递减子序列(SDU 保研上机)](https://www.cnblogs.com/awei040519/articles/19014260)
+## [斐波那契数列加强版(矩阵快速幂)(TJU 保研上机)](https://www.cnblogs.com/awei040519/articles/19014359)
