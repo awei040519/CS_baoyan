@@ -21,3 +21,4 @@
 ## [最长递减子序列(dp)(SDU 保研上机)](https://www.cnblogs.com/awei040519/articles/19014260)
 ## [斐波那契数列加强版(矩阵快速幂)(TJU 保研上机)](https://www.cnblogs.com/awei040519/articles/19014359)
 ## [IP地址组合计数((模拟)TJU 保研上机)](https://www.cnblogs.com/awei040519/articles/19014378)
+## [会议室预约冲突(区间合并trick)(TJU保研上机)](https://www.cnblogs.com/awei040519/articles/19016097)
